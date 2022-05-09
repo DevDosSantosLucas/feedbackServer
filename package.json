@@ -17,8 +17,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build":"npx tsc",
     "test": "jest",
-    "dev": "ts-node-dev src/server.ts"
+    "dev": "ts-node-dev src/server.ts",
+    "start":"node dist/server.js"
   },
   "keywords": [],
   "author": "",
