@@ -2,8 +2,8 @@
 <h1> Feedback | API </h1>
 <h2> NLW- return - Mission Impulse</h2>
 
-Esse projeto é um API para armazenar dados feedback de usuários.
-usando NodeJs, Prisma , Postgresql, Nodemailer
+Esse projeto é um API para armazenar dados feedback de usuários.<br>
+Usando NodeJs, Prisma , Postgresql, Nodemailer
 ---
 
 
@@ -29,7 +29,7 @@ usando NodeJs, Prisma , Postgresql, Nodemailer
    $ cd nome_da_sua_pasta
    
    # Clone o repositório
-   $ git clone https://github.com/DevDosSantosLucas/feedbackMobile.git
+   $ git clone https://github.com/DevDosSantosLucas/feedbackServer.git
    
    # Abra a pasta
    $ cd nome_da_pasta
