@@ -7,19 +7,14 @@ Usando NodeJs, Prisma , Postgresql, Nodemailer
 ---
 
 
-<!--
-<h2 align = "center" > Desktop </h2>
+---
+<h3>Ferramentas</h3>
 
- ![FeedBack_desktop](https://link.png)
+[Axios](https://axios-http.com/ptbr/docs/intro) <br>
+[Prisma](https://www.prisma.io/) <br>
+[Nodemailer](https://nodemailer.com/about/) <br>
+[NodeJS](https://nodejs.org/en/) <br>
 
-![dashgo_desktop2](https://link.png)
-
- <h2 align = "center" > Responsivo (mobile) </h2>
-
-![Captura de tela de 2021-11-02 15-00-19](https://user-images.githubusercontent.com/37936745/139922154-876be0e1-ce43-4f03-89e4-eb91d246ecf0.png)
-
-![Captura de tela de 2021-11-02 15-00-19 (1)](https://user-images.githubusercontent.com/37936745/139922187-19b6bcdf-d031-497a-bb54-0672ac4b0748.png)
- -->
 ## 📁 COMO BAIXAR O PROJETO
 ```bash
    # Crie uma pasta para o projeto
