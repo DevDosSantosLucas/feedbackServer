@@ -14,6 +14,7 @@ Usando NodeJs, Prisma , Postgresql, Nodemailer
 [Prisma](https://www.prisma.io/) <br>
 [Nodemailer](https://nodemailer.com/about/) <br>
 [NodeJS](https://nodejs.org/en/) <br>
+[RAILWAY](https://railway.app/)
 
 ## 📁 COMO BAIXAR O PROJETO
 ```bash
